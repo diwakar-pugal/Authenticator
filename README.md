@@ -1,13 +1,13 @@
-# NodeJS Authentication App
+# <b>NodeJS Authentication App 🔐</b>
 <p> A complete authenticator app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 </p>
 <br>
- ## Host link
+ -- Host link
  https://best-authantication-service.onrender.com
 
  
 
-## Technologies Used
+-- Technologies Used
 1.  NodeJS
 2.  Express
 3.  EJS
@@ -18,28 +18,28 @@
 8.  Nodemailer
 
 
-## Prerequisites
+-- Prerequisites
 - Git
 - NodeJS
 - CLI
 
-## Installation
+-- Installation
 
-##### Clone the latest Repository
+-- Clone the latest Repository
 
 `git clone https://github.com/SheshmaniPatel/authantication`
 
-##### Into the project directory
+-- Into the project directory
 
 `cd nodejs-auth`
 
-##### Installing NPM dependencies
+-- Installing NPM dependencies
 
 `npm install`
 
-##### Then simply start your app
+-- Then simply start your app
 
 `npm start`
 
-#### The Server should now be running at http://localhost:7000/
+-- The Server should now be running at http://localhost:7000/
 
