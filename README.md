@@ -6,7 +6,7 @@
  https://best-authantication-service.onrender.com
 
  
-<br>
+
 -- Technologies Used
 1.  NodeJS
 2.  Express
@@ -17,32 +17,32 @@
 7.  JWT
 8.  Nodemailer
 
-<br>
+
 -- Prerequisites
 - Git
 - NodeJS
 - CLI
 <br>
 <b>Screenshots 📷</b>
-<br>
+
 - Home Page
   ![Home-Page](./Images/Homepage.PNG)
-<br>
+
 - Register User
   ![Register](./Images/Register.PNG)
-<br>
+
 - Activation Email
   ![Activation](./Images/Activation.PNG)
-<br>
+
 - Login Page
   ![Activated](./Images/Activated.PNG)
-<br>
+
 - Dashboard
   ![Dashboard](./Images/Dashboard.PNG)
-<br>
+
 - Forgot Password
   !Forgot](./Images/Forgot.PNG)
-<br>
+
 
 -- Installation
 
