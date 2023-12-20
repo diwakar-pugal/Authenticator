@@ -1,4 +1,4 @@
-<b>NodeJS Authentication App 🔐</b>
+## <b>NodeJS Authentication App 🔐</b>
 <p> A complete authenticator app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 </p>
 <br>
@@ -23,7 +23,7 @@
 - NodeJS
 - CLI
   
-<b>Screenshots 📷</b>
+## <b>Screenshots 📷</b>
 
 - Home Page
   ![Home-Page](./Images/Homepage.PNG)
@@ -41,7 +41,7 @@
   ![Dashboard](./Images/Dashboard.PNG)
 
 - Forgot Password
-  !Forgot](./Images/Forgot.PNG)
+  ![Forgot](./Images/Forgot.PNG)
 
 
 -- Installation
