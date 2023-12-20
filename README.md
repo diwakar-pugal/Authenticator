@@ -7,7 +7,7 @@
 
  
 
--- Technologies Used
+## Technologies Used
 1.  NodeJS
 2.  Express
 3.  EJS
@@ -18,11 +18,11 @@
 8.  Nodemailer
 
 
--- Prerequisites
+## Prerequisites
 - Git
 - NodeJS
 - CLI
-<br>
+  
 <b>Screenshots 📷</b>
 
 - Home Page
