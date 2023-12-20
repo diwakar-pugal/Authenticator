@@ -26,22 +26,22 @@
 <b>Screenshots 📷</b>
 <br>
 - Home Page
-  ![Home-Page](./images/Homepage.PNG)
+  ![Home-Page](./Images/Homepage.PNG)
 <br>
 - Register User
-  ![Register](./images/Register.PNG)
+  ![Register](./Images/Register.PNG)
 <br>
 - Activation Email
-  ![Activation](./images/Activation.PNG)
+  ![Activation](./Images/Activation.PNG)
 <br>
 - Login Page
-  ![Activated](./images/Activated.PNG)
+  ![Activated](./Images/Activated.PNG)
 <br>
 - Dashboard
-  ![Dashboard](./images/Dashboard.PNG)
+  ![Dashboard](./Images/Dashboard.PNG)
 <br>
 - Forgot Password
-  !Forgot](./images/Forgot.PNG)
+  !Forgot](./Images/Forgot.PNG)
 <br>
 
 -- Installation
