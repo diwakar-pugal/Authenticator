@@ -50,7 +50,7 @@
 
 -- Clone the latest Repository
 
-`git clone https://github.com/SheshmaniPatel/authantication`
+`git clone https://github.com/diwakar-pugal/Authenticator
 
 -- Into the project directory
 
