@@ -1,4 +1,3 @@
-## <b>NodeJS Authentication App </b>
 <h1 align="center">AUTHENTICATOR  🔐</h1> 
 <p align="center">
 <p> A complete authenticator app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
